@@ -1,5 +1,5 @@
 {
-  "name": "prasthuth-cli",
+  "name": "prasthuth-test-cli",
   "version": "1.0.0",
   "description": "CLI for Presto TS",
   "main": "index.js",
