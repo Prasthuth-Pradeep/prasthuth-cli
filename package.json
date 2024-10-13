@@ -1,0 +1,13 @@
+{
+  "name": "prasthuth-ts",
+  "version": "1.0.0",
+  "description": "A lightweight TypeScript framework with a custom CLI tool.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node cli/index.js new example-project",
+    "link-cli": "cd cli && npm link"
+  },
+  "author": "Prasthuth Pradeep",
+  "license": "MIT",
+  "private": true
+}

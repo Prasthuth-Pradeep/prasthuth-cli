@@ -1,0 +1,12 @@
+{
+  "name": "prasthuth-cli",
+  "version": "1.0.0",
+  "description": "CLI for Presto TS",
+  "main": "index.js",
+  "bin": {
+    "prp": "./index.js"
+  },
+  "author": "Prasthuth Pradeep",
+  "license": "MIT",
+  "dependencies": {}
+}
