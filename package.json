@@ -8,6 +8,5 @@
     "link-cli": "cd cli && npm link"
   },
   "author": "Prasthuth Pradeep",
-  "license": "MIT",
-  "private": true
+  "license": "MIT"
 }
